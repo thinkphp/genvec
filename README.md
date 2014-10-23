@@ -1,0 +1,1 @@
+A dead simple python & ruby that generates a file.out with randomly integers between -1024 and +1024 without duplicates.
